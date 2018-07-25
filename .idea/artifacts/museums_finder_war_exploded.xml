@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="museums-finder:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/museums_finder_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="museums-finder/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="museums-finder" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
